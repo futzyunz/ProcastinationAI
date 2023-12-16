@@ -1,0 +1,11 @@
+{
+    "name": "Procastination Helper",
+    "description": "Basic Chrome Extension to help you stop procastinating",
+    "version": "1.0",
+    "manifest_version": 3,
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    }
+}

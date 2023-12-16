@@ -3,14 +3,9 @@
     "description": "Basic Chrome Extension to help you stop procastinating",
     "version": "1.0",
     "manifest_version": 3,
-    "browser_action": {
-        "default_popup": "index.html",
-        "default_title": "Procastination Helper"
-    },
     "icons": {
         "16": "icon.png",
         "48": "icon.png",
         "128": "icon.png"
-    },
-    "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+    }
 }

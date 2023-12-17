@@ -1,6 +1,6 @@
 # Procastination Helper
 
-![Extension Logo](dist\icon.png)
+![Extension Logo](dist/icon.png)
 
 ## Summary
 
